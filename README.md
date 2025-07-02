@@ -17,9 +17,8 @@ It’s ideal for students, beginners, or developers learning how to use database
 
 ---
 
-## 📁 Folder Structure
+## 🗂 Directory Map
 
-```
 
 ASP.NET\_DATBASE\_PROCEDURS/
 ├─ Controllers/
@@ -33,7 +32,6 @@ ASP.NET\_DATBASE\_PROCEDURS/
 ├─ Program.cs / Startup.cs       # ASP.NET Core startup files
 └─ README.md
 
-````
 
 ---
 
